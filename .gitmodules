@@ -1,0 +1,3 @@
+[submodule "hkcensus2011"]
+	path = hkcensus2011
+	url = git@github.com:gazetteerhk/census_explorer.git
