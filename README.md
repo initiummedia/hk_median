@@ -1,14 +1,18 @@
-# hk_median
+# Mr Median of Hong Kong
 
 ## Usage
 
-First setup all submodules:
+1 - First setup all submodules
 
 ```
 git submodule init
 git submodule update
 ```
 
-Then try init according to each submodule's README file
+2 - Then try init according to each submodule's README file
 
-
+```
+pyvenv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```

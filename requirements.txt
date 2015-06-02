@@ -1,0 +1,10 @@
+ipython
+pyzmq
+jinja2
+tornado
+jsonschema
+numpy
+scipy
+matplotlib
+scikit-learn
+seaborn
